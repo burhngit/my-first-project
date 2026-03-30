@@ -1,1 +1,2 @@
 this is feature 2
+new text in feature2
